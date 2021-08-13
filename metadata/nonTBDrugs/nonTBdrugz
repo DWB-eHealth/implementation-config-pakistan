@@ -1,0 +1,8 @@
+Please find the attachments  SQL scripts to import non-TB Drugs for new implementations.
+Note:-  Please run the scripts in the following order
+addformulation.sql
+formulations.sql
+add_other_drugs.sql
+other_drugs.sql
+
+createNonTBDrug.sh can be used to create non-tb drugs
